@@ -15,8 +15,8 @@ Color Palette Explorer
    3. cd colorPalette
    4. pip install -r requirements.txt
 5) Запуск проекта
-   python manage.py runserver
-   Либо в терминале смотрите и нажимаете на это ![image](https://github.com/Alinazavrr/Color-Palette-Explorer/assets/92854859/2fb54af3-a722-48e5-ab23-5eaa3cb7f308) либо зайдите в браузер по этому url "http://127.0.0.1:8000/"    если не работает посмотрите чтобы у вас на этом порте ничего не было запущено
+   1) python manage.py runserver
+   2) Либо в терминале смотрите и нажимаете на это ![image](https://github.com/Alinazavrr/Color-Palette-Explorer/assets/92854859/2fb54af3-a722-48e5-ab23-5eaa3cb7f308) либо зайдите в браузер по этому url "http://127.0.0.1:8000/"    если не работает посмотрите чтобы у вас на этом порте ничего не было запущено
 
 
 
